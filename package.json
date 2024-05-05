@@ -1,5 +1,5 @@
 {
-  "name": "hellocucumber",
+  "name": "miapoyoiteso",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cucumber": "^10.4.0"
+    "@cucumber/cucumber": "^10.4.0"
   }
 }
